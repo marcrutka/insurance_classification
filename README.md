@@ -1,4 +1,4 @@
-# Project: Classification Models Analysis for an Insurance Sales Campaign
+# Classification Models Analysis for a Fake Insurance Sales Campaign
 
 ## 📌 Project Overview
 This project aims to analyze various classification models to identify the best-performing model for predicting customer responses to an **fake insurance company's sales campaign**. Based on available customer attributes, the models learn to classify whether a client will respond positively or negatively to the campaign.
@@ -55,5 +55,5 @@ The dataset is publicly available on Kaggle and can be accessed at the following
 3. **Open and run `insurance_classifaction.ipynb`.**
 
 ## 📌 Author
-This project was developed to explore various classification techniques in the context of **marketing analysis for an fake insurance company**.
+This project was developed to explore various classification techniques by Marceli Rutka in the context of **marketing analysis for an fake insurance company**.
 
