@@ -1,10 +1,10 @@
 # Project: Classification Models Analysis for an Insurance Sales Campaign
 
 ## 📌 Project Overview
-This project aims to analyze various classification models to identify the best-performing model for predicting customer responses to an **insurance company's sales campaign**. Based on available customer attributes, the models learn to classify whether a client will respond positively or negatively to the campaign.
+This project aims to analyze various classification models to identify the best-performing model for predicting customer responses to an **fake insurance company's sales campaign**. Based on available customer attributes, the models learn to classify whether a client will respond positively or negatively to the campaign.
 
 ## 📂 Project Structure
-- `Projekt Zas BI(ENG).ipynb` – Main Jupyter Notebook containing the entire analysis and modeling workflow.
+- `insurance_classification.ipynb` – Main Jupyter Notebook containing the entire analysis and modeling workflow.
 - `train.csv` – Dataset used for model training.
 - `README.md` – This file, describing the project.
 
@@ -46,17 +46,14 @@ The dataset is publicly available on Kaggle and can be accessed at the following
 ## 🚀 How to Run the Project
 1. **Install the required libraries:**
    ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn
+   pip install requirements.txt
    ```
 2. **Launch Jupyter Notebook:**
    ```bash
    jupyter notebook
    ```
-3. **Open and run `Projekt Zas BI(ENG).ipynb`.**
+3. **Open and run `insurance_classifaction.ipynb`.**
 
 ## 📌 Author
-This project was developed to explore various classification techniques in the context of **marketing analysis for an insurance company**.
-
----
-**📢 If you find this project valuable, don't forget to leave a ⭐ on GitHub!** 🚀
+This project was developed to explore various classification techniques in the context of **marketing analysis for an fake insurance company**.
 
